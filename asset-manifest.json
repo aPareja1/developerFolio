@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/developerFolio/static/css/main.a571b26c.chunk.css",
+    "main.js": "/developerFolio/static/js/main.5c549659.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.5c549659.chunk.js.map",
+    "runtime-main.js": "/developerFolio/static/js/runtime-main.99ea03dd.js",
+    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.99ea03dd.js.map",
+    "static/js/2.5ca2732f.chunk.js": "/developerFolio/static/js/2.5ca2732f.chunk.js",
+    "static/js/2.5ca2732f.chunk.js.map": "/developerFolio/static/js/2.5ca2732f.chunk.js.map",
+    "index.html": "/developerFolio/index.html",
+    "precache-manifest.2d3a447b1eaec9e076bd540459ac47c2.js": "/developerFolio/precache-manifest.2d3a447b1eaec9e076bd540459ac47c2.js",
+    "service-worker.js": "/developerFolio/service-worker.js",
+    "static/css/main.a571b26c.chunk.css.map": "/developerFolio/static/css/main.a571b26c.chunk.css.map",
+    "static/media/index.css": "/developerFolio/static/media/PressStart2P-Regular.2c404fd0.ttf",
+    "static/media/choice.svg": "/developerFolio/static/media/choice.9aa3135a.svg",
+    "static/media/contactMail.png": "/developerFolio/static/media/contactMail.d6d4086f.png",
+    "static/media/all.css": "/developerFolio/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/logo.svg": "/developerFolio/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.69b019b6.svg",
+    "static/media/programming.svg": "/developerFolio/static/media/programming.c1a95f73.svg",
+    "static/media/TalkCard.css": "/developerFolio/static/media/talksCardBack.de3da806.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99ea03dd.js",
+    "static/js/2.5ca2732f.chunk.js",
+    "static/css/main.a571b26c.chunk.css",
+    "static/js/main.5c549659.chunk.js"
+  ]
+}
