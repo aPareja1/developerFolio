@@ -9,6 +9,7 @@ export default function BlogCard({ blog }) {
           <img src={blog.image} alt="blog" className="blog-card-image mask" />
           <div class="blog-card-title">{blog.title}</div>
           <p className="blog-card-subtitle">{blog.description}</p>
+          <p className="blog-card-subtitle devWith">{blog.devWith}</p>
 
           <div>
             <a href={blog.url} target="_" class="button">

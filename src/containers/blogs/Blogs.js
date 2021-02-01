@@ -21,7 +21,8 @@ export default function Blogs() {
                   url: blog.url,
                   image: blog.image,
                   title: blog.title,
-                  description: blog.description
+                  description: blog.description,
+                  devWith: blog.devWith
                 }}
               />
             );

@@ -184,18 +184,49 @@ const blogSection = {
       image: "https://gdurl.com/8Bjv",
       title: "Lienzo canvas para jóvenes emprendendores",
       description: "Aplicación desarrollada con la finalidad de orientar a emprendedores jóvenes en la construcción de su módelo de negocio utilizando la metodología canvas, Nescafé"
+      ,devWith:"Tecnologías: Flutter"
     },
     {
       url: "https://drive.google.com/file/d/1l1T-XN32FQxkhEm3XT32iAC_kj23Ic80/view?usp=sharing",
-      image: "https://gdurl.com/Id5w",
-      title: "Decidiendo a tiempo y cuidando la cosecha",
-      description: ""
+      image: "https://drive.google.com/uc?id=1B_cel_5FI7QfSvFgWge65srkzygCcAmR",
+      title: "Decidiendo a tiempo y cuidando la cosecha ",
+      description: "Juego de dados para simular situaciones que ayudan a la infestación de la broca del café"
+      ,devWith:"Tecnologías: Unity"
     },
     {
       url: "https://drive.google.com/file/d/19bRgXcRLCKtNQAk9T_iBa_xmyHb4xYG3/view?usp=sharing",
-      image: "https://gdurl.com/Id5w",
+      image: "https://drive.google.com/uc?id=1DLMuVb4T1Zj9oOYvsWE1kHWl0eWPBUzc",
       title: "Un paso adelante de la broca del café",
-      description: ""
+      description: "Juego de cartas multijugador donde se plantean situaciones de riesgo y prevención para la infestación de la broca del café"
+      ,devWith:"Tecnologías: Angular, Ionic, Firebase"
+    },
+    {
+      url: "https://drive.google.com/file/d/1mzgJSJSVBNy3UNiYMBqeu_gwtz3YoiQ1/view?usp=sharing",
+      image: "https://drive.google.com/uc?id=1kG3ztepmBhn4p8EGmFzgLUO3IZ20ShHi",
+      title: "Aplicación Famipuntos",
+      description: "Aplicación móvil que busca reconocer y valorar el aporte familiar al cuidado del hogar por medio de una asignación de tareas y un sistema de puntos"
+      ,devWith:"Tecnologías: Flutter"
+    },
+    {
+      url: "https://drive.google.com/file/d/1uKr606TY2-Pj4aeRYc0zjYmOBh1r2zw5/view?usp=sharing",
+      image: "https://drive.google.com/uc?id=1rK3tqsfmEny2mthwSuQ5spGp5QCSFVa_",
+      title: "Aplicación Sombrío",
+      description: "Aplicación móvil utilizada para determinar el nivel de sombra de un cultivo y según esto sugerir especies de árbol a plantar y sus distancias de siembra"
+      ,devWith:"Tecnologías: Ionic"
+    },
+    {
+      url: "https://drive.google.com/file/d/1kK6hw2qS0nCmNO54txMXByipICqbvagx/view?usp=sharing",
+      image: "https://gdurl.com/Id5w",
+      title: "Circuito de Observación",
+      description: "Juego móvil de atención donde a través de 3 canciones se le muestran practicas de conservación de suelo, bosques y de buena recolección a los caficultores"
+      ,devWith:"Tecnologías: Unity"
+    },
+    {
+      url: "https://drive.google.com/file/d/1ORB_flyEHE3qcS3cDRpnlUcEKc9XfT00/view?usp=sharing",
+      image: "https://drive.google.com/uc?id=1MguumKGJeELCaYrDD7opHe7_TrlmR3nr",
+      title: "Torre al suelo",
+      description: "Juego móvil que simula una torre Jenga donde cada bloque es un componente para tener el suelo en equilibrio "
+      ,devWith:"Tecnologías: Unity"
     }
   ]
 };
